@@ -1,0 +1,5 @@
+redis
+redis-om
+requests
+sentry-sdk
+python-telegram-bot
